@@ -129,6 +129,3 @@ I enjoy staying up to date on the latest trends and practices in the world of so
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
