@@ -23,10 +23,6 @@ I am passionate about exploring and learning about a wide variety of programming
 I enjoy staying up to date on the latest trends and practices in the world of software development, as I believe that versatility and in-depth knowledge in various areas allows me to approach projects with confidence and efficiency.  
   
 
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
 🌱 I’m currently learning about  
   
 
@@ -43,13 +39,7 @@ I enjoy staying up to date on the latest trends and practices in the world of so
   
 
 - Software architectures  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
@@ -122,30 +112,22 @@ I enjoy staying up to date on the latest trends and practices in the world of so
 
 <br/>  
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gioakol&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gioakol&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioakol&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=gioakol&&style=flat-square)  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=gioakol&&style=flat-square" align="center" />
+</div>  
   
 
 <br/>  
 
-  
-
-<br/>  
-
-
+<div align="center">
+            <a href="https://www.buymeacoffee.com/gioakole" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
 <br />
 
 ----
