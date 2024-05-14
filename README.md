@@ -41,6 +41,9 @@ I enjoy staying up to date on the latest trends and practices in the world of so
 - Software architectures  
   
 
+Additionally, I will be sharing exercises and resources that I consider useful to the community, in the hope of contributing to the learning and development of other developers.  
+  
+
 <br/>  
 
 
